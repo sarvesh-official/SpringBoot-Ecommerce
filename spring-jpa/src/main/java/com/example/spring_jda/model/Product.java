@@ -34,7 +34,5 @@ public class Product {
     private byte[] imageData;
 
 
-    public void getImageName(String originalFilename) {
-        this.imageName = originalFilename;
-    }
+
 }
